@@ -1,0 +1,8 @@
+@import "~antd/dist/antd.css";
+
+.combo-button {
+  color: white;
+  margin-left: 20px;
+  background-color: rgb(255, 255, 255, 0.2);
+  border: 0;
+}
